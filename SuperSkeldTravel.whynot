@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+    </head>
+    <body>
+    <style>
+          body {
+            background-color: rgb(0, 0, 0);
+        }
+                
+            text {
+                color:  rgb(255, 255, 255);
+            }
+            
+            p {
+                color: rgb(255, 255, 255);
+            }
+            
+            h1 {
+                color: rgb(255, 255, 255);
+            }
+            li { color: rgb(255,255,255);
+                
+            }
+        
+    </style>
+        <h1>Travel to The Skeld!</h1>
+         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Among_Us_cover_art.jpg/250px-Among_Us_cover_art.jpg" alt="THe Photo cover art of Among Us (the game where the skeld is from)" width="160"> 
+    <p> The Skeld is The Perfect vaction for lifelong fans of science-fiction!<p>
+    
+    <h2>Reasons why you should travel to the skeld</h2>
+    <p>The Skeld is the original map of the very popular 2018 game "Among Us". It is full of rooms and places to do all around the ship. And there are totally not aliens aboard so you have nothing to worry about!<p>
+    <h2> Things to do on the Skeld</h2>
+    <p>The Skeld has a variety of Things for you to do aboard this vacation edition<p>
+    <ul>
+       <li> Doing Tasks with real life professional crewmates
+       <li> Eating Pizza in the Cafeteria
+       <li> Playing Video Games in Admin
+       <li> Playing Party games at 6:00 such as, pin the tail on the impostor
+       <li> A daycare in Medbay for parents
+    </ul>
+         <p>And So Much More!!!<p>
+    <h2>Safety Measures</h2>
+     <p> Dont worry, parents! This ship is fully functional with state of-the-art security measures.
+     <p> -The autopilot is used whenever the current captain is on break<p>
+     <p> -Face identity is used on a daily basis to find intruders (and it works, just trust)
+     <p> 
+     <p> -Reactor/o2 maintenance is due every day, so no need to worry!
+    <h2>Places to visit</h2>
+    <p> The Skeld isn't Just A vacation, it's a travel ship too!
+    <p> Many Places are availible for you to use all the time!
+    Such Places include:
+    <ul>
+        <li> Fungle Island </li>
+        <li> Polus (named after the officer) </li>
+        <li> Mira HQ( a Perfect place for kids to learn how to be a crewmate)
+    </ul>
+    <h2>Support Us!</h2>
+    <p> Help us beat our rival, The Airship, and make learning and fun possible for kids as our goal and not a social experiment to cover up a dark past! We wish you and your familiy a fun time on THE SKELD II <p>
+    </body>
+</html>
